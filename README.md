@@ -1,6 +1,8 @@
 # Govinda — YouTube Shorts Generator
 
-A local dashboard I built to generate YouTube Shorts at scale. You set up your music, video clips, hooks and CTAs once, then batch-generate as many variations as you want. Saves hours of manual editing.
+A local dashboard I built to generate clips for ads or content pieces. You set up your music (with custom start points), video clips, and hooks — then batch-generate as many combinations as you want. Saves hours of manual editing.
+
+The next version will support breaking long videos into individual content pieces and testing numerous variations with different music and hooks — useful for A/B testing in ads.
 
 ## Features
 
