@@ -1,0 +1,108 @@
+{
+  "hooks": [],
+  "music": {
+    "onlylightIseemaster2.wav": {
+      "segments": [
+        {
+          "start": 124.1,
+          "end": 156.5
+        }
+      ]
+    },
+    "dark sun_master.wav": {
+      "segments": [
+        {
+          "start": 63.8,
+          "end": 70.4
+        },
+        {
+          "start": 13.6,
+          "end": 19.1
+        }
+      ],
+      "enabled": true
+    }
+  },
+  "settings": {
+    "video_duration_min": 6,
+    "video_duration_max": 8,
+    "music_volume": 0.4,
+    "sin_trim_start": 0,
+    "sin_max_duration": 0,
+    "sin_start_times": [
+      3
+    ],
+    "hooks_disabled": [],
+    "active_cta": "save_it_now.mp4",
+    "text_style": {
+      "font": "system-bold",
+      "font_size": 47,
+      "color": "#000000",
+      "outline_color": "#000000",
+      "outline_width": 0,
+      "position_y": 22,
+      "bg_enabled": true,
+      "bg_auto": true,
+      "bg_color": "#ffffff",
+      "bg_padding": 10,
+      "bg_radius": 36
+    },
+    "hook_styles": {
+      "3": {
+        "font": "anton",
+        "font_size": 55,
+        "color": "#000000",
+        "outline_color": "#000000",
+        "outline_width": 0,
+        "position_y": 18,
+        "bg_enabled": true,
+        "bg_color": "#ffffff",
+        "bg_padding": 10,
+        "bg_radius": 36
+      },
+      "4": {
+        "font": "system-bold",
+        "font_size": 51,
+        "color": "#ffffff",
+        "outline_color": "#000000",
+        "outline_width": 0,
+        "position_y": 23
+      }
+    },
+    "source_mode": "longvideo"
+  },
+  "long_video": {
+    "file": "IMG_0541.mov",
+    "markers": [
+      1.66,
+      5.87,
+      12.75,
+      17.79,
+      25.12
+    ],
+    "clip_duration_min": 12,
+    "clip_duration_max": 13,
+    "use_original_audio": false
+  },
+  "hook_pools": {
+    "Default": [
+      "Finding deep house bangers so you don’t have to:",
+      "Finding the best deep house bangers so you don’t have to:",
+      "Your new favorite house playlist #house #housemusic #playlist #deephousemusic",
+      "This playlist is literally a hack for finding new deep house bangers:",
+      "Dicover hidden gems in 2026 deep house music:",
+      "POV: you finally found a playlist with uplifting house tunes 🔊",
+      "POV: you finally found a playlist with deep house tunes 🔊",
+      "POV: you finally found the ultimate playlist with deep house tunes 🔊",
+      "POV: you finally found the best playlist with deep house tunes 🔊",
+      "It’s a way of life.",
+      "This isn’t just a playlist.",
+      "Looking for new melodic/progressive house tunes?",
+      "Looking for new house bangers? 🔥🔊",
+      "POV: you finally found the ultimate house & dance playlist with sunset vibes:"
+    ],
+    "Pool 2": [],
+    "Pool 3": []
+  },
+  "active_pool": "Pool 3"
+}
