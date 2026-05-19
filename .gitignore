@@ -19,3 +19,5 @@ stock_videos/Content
 stock_videos/
 endscreen/*.mp4
 output/*.mp4
+music/*.wav
+music/*.mp3
