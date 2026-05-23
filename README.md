@@ -2,7 +2,7 @@
 
 I was running YouTube Shorts channels and editing every video manually was taking forever. I built a local dashboard where I set up my music, hooks, and video clips and it generates various combinations automatically. 
 
-It can break down long videos into individual content pieces and testing numerous variations with different music and hooks — useful for A/B testing in ads. 
+It can break down long videos into individual content pieces and testing numerous variations with different music and hooks. Useful for A/B testing in ads. 
 
 **Learned:** Next.js, TypeScript, FFmpeg pipeline, had to write a custom Swift script for text rendering
 
